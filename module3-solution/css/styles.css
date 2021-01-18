@@ -1,0 +1,29 @@
+
+body {
+    font-family: 'Oxygen', sans-serif;
+}
+
+/*** Header ***/
+.navbar {
+    background-color: darkgoldenrod;
+}
+#navbarNav {
+    /* text-align: center; */
+    background-color: #f8df4e;
+}
+.navbar button {
+    background-color: gold;
+}
+
+/*** End Header ***/
+
+
+/*** Main ***/
+h2 {
+    margin: 10px 0 20px;
+}
+#chicken, #beef, #sushi {
+    background-color: chocolate;
+    width: 100%;
+}
+/*** End Main ***/
